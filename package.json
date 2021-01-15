@@ -133,7 +133,7 @@
     "langs": "^1.0.1",
     "languagedetect": "^1.1.1",
     "lazy.js": "^0.4.2",
-    "lodash": "^3.2.0",
+    "lodash": "^4.17.19",
     "loglevel": "^1.2.0",
     "lru-cache": "^2.5.0",
     "matrix-appservice-bridge": "^2.4.1",
