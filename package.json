@@ -139,7 +139,7 @@
     "matrix-appservice-bridge": "^2.4.1",
     "method-override": "^2.3.4",
     "moment": "^2.10.3",
-    "mongodb": "^2.2.35",
+    "mongodb": "^3.1.13",
     "mongodb-unique-ids": "^0.2.0",
     "mongoose": "~4.6.0",
     "mongoose-number": "^0.1.1",
