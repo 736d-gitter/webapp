@@ -40,7 +40,7 @@
     "express-async-handler": "^1.1.4",
     "express-hbs": "~0.8.4",
     "express-session": "^1.17.1",
-    "fast-csv": "^0.6.0",
+    "fast-csv": "^4.3.6",
     "fastclick": "^1.0.6",
     "fastdom": "^1.0.1",
     "fflip": "git+https://github.com/suprememoocow/fflip.git#fa77d5d981c2b93279c42305e8fe5632716c06a5",
